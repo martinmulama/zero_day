@@ -1,1 +1,1 @@
-This is my first fullstack project
+This is my first fullstack project. Vagrant updated and running.
